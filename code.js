@@ -1,1 +1,1 @@
-console.log("abcd")
+var a = 1
